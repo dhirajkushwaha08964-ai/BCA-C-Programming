@@ -1,4 +1,4 @@
-#include <stdio.h>
+ #include <stdio.h>
 
 int maxProfit(int* prices, int pricesSize) {
     if (pricesSize <= 1) return 0;
