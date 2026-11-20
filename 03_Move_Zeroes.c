@@ -1,4 +1,4 @@
-void moveZeroes(int* nums, int numsSize) {
+ void moveZeroes(int* nums, int numsSize) {
     int insertPos = 0;
 
     // Saare non-zero elements ko aage shift karein
@@ -15,5 +15,4 @@ void moveZeroes(int* nums, int numsSize) {
         insertPos++;
     }
 }
- 
 
