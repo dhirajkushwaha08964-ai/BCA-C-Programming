@@ -1,4 +1,4 @@
-#include <stdlib.h>
+ #include <stdlib.h>
 
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
     // 1. 2 integers store karne ke liye dynamic memory allocate karein
